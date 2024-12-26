@@ -1,3 +1,4 @@
-Este es el otro archivo que tenemos inicialmente en nuestro proyecto.
+Este archivo que teníamos inicialmente en nuestro proyecto lo editamos.
 Aqui, añadiremos un tercer renglon, a modo de ejemplo.
 Este tercer renglón, podrá tener cualquier contenido de texto.
+Añadimos también, un cuarto renglón
