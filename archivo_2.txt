@@ -1,0 +1,3 @@
+Este es el otro archivo que tenemos inicialmente en nuestro proyecto.
+Aqui, añadiremos un tercer renglon, a modo de ejemplo.
+Este tercer renglón, podrá tener cualquier contenido de texto.
