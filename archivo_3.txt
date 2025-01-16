@@ -1,1 +1,2 @@
+Este es un nuevo archivo agregado al proyecto.
 Este es un nuevo archivo agregado al proyecto. Prueba en Jira.
