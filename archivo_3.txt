@@ -1,2 +1,2 @@
 Este es un nuevo archivo agregado al proyecto.
-El equipo detecto un error.
+Este es un nuevo archivo agregado al proyecto. Prueba en Jira.
